@@ -1,0 +1,8 @@
+run.sh
+logs/*
+logs
+*.pdf
+figs/
+slurms/
+data/
+__pycache__
